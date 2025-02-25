@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davidcarciumaru21
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on FTC
 - 📫 How to reach me davidcarciumaru21@gmail.com
 
 <!---
