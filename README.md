@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidcarciumaru21
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in Rust
 - 🌱 I’m currently learning Java
 - 📫 How to reach me davidcarciumaru21@gmail.com
 
